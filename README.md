@@ -37,8 +37,8 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
 - 🤖 **[EthioGPT — AI Conversational Assistant](https://ethiogptclone.vercel.app/)** — Engineered a ChatGPT-style conversational assistant integrating the Google Gemini API with real-time markdown rendering, syntax code highlighting, guest mode, and authenticated user accounts.  
   *Tech: React, Node.js, Express.js, Google Gemini API, Bcrypt* · [Live Demo](https://ethiogptclone.vercel.app/) · [GitHub Repo](https://github.com/DawitMahabaw/ChatGPT-Clone)
 
-- 🎬 **[EthioMovie — Media Streaming Catalog](https://ethiomovie.vercel.app/)** — Developed a cinematic movie discovery web application powered by the TMDB REST API, featuring billboard hero banners, horizontal genre carousels, and interactive YouTube trailer playback.  
-  *Tech: React, TMDB REST API, CSS3, Axios* · [Live Demo](https://ethiomovie.vercel.app/) · [GitHub Repo](https://github.com/DawitMahabaw)
+- 🎬 **[EthioMovie — Media Streaming Catalog](https://ethiomoviedm.vercel.app/)** — Developed a cinematic movie discovery web application powered by the TMDB REST API, featuring billboard hero banners, horizontal genre carousels, and interactive YouTube trailer playback.  
+  *Tech: React, TMDB REST API, CSS3, Axios* · [Live Demo](https://ethiomoviedm.vercel.app/) · [GitHub Repo](https://github.com/DawitMahabaw/moviedb)
 
 ---
 
@@ -53,7 +53,7 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://dawitmahabaw.dev/" target="_blank">
+  <a href="https://github.com/DawitMahabaw/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-050713?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   &nbsp;
@@ -65,7 +65,7 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:dawitmahabaw03@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dawitmahabaw03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
