@@ -40,9 +40,6 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
 - 🎬 **[EthioMovie — Media Streaming Catalog](https://ethiomovie.vercel.app/)** — Developed a cinematic movie discovery web application powered by the TMDB REST API, featuring billboard hero banners, horizontal genre carousels, and interactive YouTube trailer playback.  
   *Tech: React, TMDB REST API, CSS3, Axios* · [Live Demo](https://ethiomovie.vercel.app/) · [GitHub Repo](https://github.com/DawitMahabaw)
 
-- 🪐 **[Interactive 3D Portfolio](https://dawitmahabaw.dev/)** — Built a high-performance personal portfolio showcasing full-stack projects, responsive timeline journey, interactive 3D Earth globe, and integrated EmailJS contact system.  
-  *Tech: React 19, Three.js, React Three Fiber, Framer Motion* · [Live Demo](https://dawitmahabaw.dev/) · [GitHub Repo](https://github.com/DawitMahabaw/portfolio)
-
 ---
 
 ### 📊 GitHub Overview
@@ -70,10 +67,6 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
   &nbsp;
   <a href="mailto:dawitmahabaw03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/dawitmahabaw" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
