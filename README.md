@@ -53,9 +53,9 @@ I engineer reliable, end-to-end web platforms—from designing normalized MySQL 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/DawitMahabaw/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-050713?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
-  </a>
+  <a href="https://dev-codes.site/" target="_blank">
+  <img src="https://img.shields.io/badge/MY_PORTFOLIO-050713?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="My Portfolio" />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/dawit-mahabaw-b7035a361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
